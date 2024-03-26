@@ -1,1 +1,1 @@
-# developer
+# Migthy Ducks Hockey League
